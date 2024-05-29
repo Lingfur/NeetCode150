@@ -1,9 +1,3 @@
-/*
- * @Copyright: sunhongbin
- * @file name: hci-campus-web
- * @Data: 27-6-2022
- * @Describe: The project is designed to implement the mobile page of the official website of Shandong University School of Software
- */
 /* 217. Contains Duplicate
 Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
